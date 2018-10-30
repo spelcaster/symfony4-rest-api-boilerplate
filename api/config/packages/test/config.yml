@@ -1,0 +1,6 @@
+framework:
+  profiler:
+    collect: true
+
+web_profiler:
+  toolbar: true
