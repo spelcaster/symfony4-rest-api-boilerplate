@@ -3,9 +3,21 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "axios": "^0.18.0",
+    "base-64": "^0.1.0",
+    "jwt-decode": "^2.2.0",
+    "prop-types": "^15.6.2",
     "react": "^16.6.0",
     "react-dom": "^16.6.0",
-    "react-scripts": "2.1.0"
+    "react-redux": "^5.1.0",
+    "react-router5": "^6.5.3",
+    "react-scripts": "2.1.0",
+    "redux": "^4.0.1",
+    "redux-logger": "^3.0.6",
+    "redux-router5": "^6.0.5",
+    "redux-saga": "^0.16.2",
+    "router5": "^6.6.2",
+    "router5-helpers": "^5.2.1"
   },
   "scripts": {
     "start": "react-scripts start",
