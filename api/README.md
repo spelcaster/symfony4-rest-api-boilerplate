@@ -59,7 +59,7 @@ curl -H "Authorization: Bearer :token:" -H "Content-Type: application/json" http
 ## Run tests
 
 ```
-bin/phpunit
+bin/phpunit -c phpunit.xml
 ```
 
 ## Check the API documentation
